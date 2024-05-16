@@ -1,0 +1,5 @@
+# dune init proj compressor
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Users/raymonddeng/Desktop/github/compressor
+# Auto-detected concurrency: 8
